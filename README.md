@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+I am atsuchan, a Japanese college student.
+
+[![](https://img.shields.io/mastodon/follow/000000001?domain=https%3A%2F%2Fatsuchan.page&style=social)](https://atsuchan.page/@atsuchan)
+
+
+**GitHub Stats**
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=atsu1125&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsu1125" />
+</a>
+
+
 <!--
 **atsu1125/atsu1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
