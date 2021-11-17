@@ -3,7 +3,8 @@
 I am atsuchan, a Japanese college student.
 
 [![](https://img.shields.io/mastodon/follow/000000001?domain=https%3A%2F%2Fatsuchan.page&style=social)](https://atsuchan.page/@atsuchan)
-
+[atsuchan.page](https://atsuchan.page)
+[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/7ndy.svg)](https://betteruptime.com/?utm_source=status_badge)
 
 **GitHub Stats**
 
