@@ -4,7 +4,7 @@ I am atsuchan, a Japanese college student. [atsuchan.page](https://atsuchan.page
 
 
 [![](https://img.shields.io/mastodon/follow/000000001?domain=https%3A%2F%2Fatsuchan.page&style=social)](https://atsuchan.page/@atsuchan)
-[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/7ndy.svg)](https://betteruptime.com/?utm_source=status_badge)
+[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/7ndy.svg)](https://status.atsuchan.page)
 
 **GitHub Stats**
 
