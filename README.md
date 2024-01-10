@@ -1,15 +1,11 @@
 ### Hi there 👋
 
-I am atsuchan, a Japanese college student. [atsuchan.page](https://atsuchan.page)
-
-
-[![](https://img.shields.io/mastodon/follow/000000001?domain=https%3A%2F%2Fatsuchan.page&style=social)](https://atsuchan.page/@atsuchan)
-[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/7ndy.svg)](https://status.atsuchan.page)
+I am atsuchan, a Japanese college student.
 
 **GitHub Stats**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=atsu1125&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=atsu1125&count_private=true&show_icons=true&theme=cobalt" />
 </a>
 
 <!--
